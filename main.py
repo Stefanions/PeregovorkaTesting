@@ -15,6 +15,8 @@ from datetime import datetime, timedelta, date
 
 import app.keyboard as kb
 
+print("adasdsadasdasdasd")
+
 bot = Bot(token = TOKEN)
 dp = Dispatcher()
 
