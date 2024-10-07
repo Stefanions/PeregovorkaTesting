@@ -1,4 +1,0 @@
-```
-app/__pycache__
-.vPeregovorka_bot
-```
