@@ -17,6 +17,8 @@ import app.keyboard as kb
 
 print("master commit 1")
 
+print("together")
+
 print("master commit 2")
 
 bot = Bot(token = TOKEN)
