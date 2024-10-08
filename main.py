@@ -25,6 +25,8 @@ print("AAAAAAAAAAAAAAAAAAAAAA")
 bot = Bot(token = TOKEN)
 dp = Dispatcher()
 
+print("asdas")
+
 class st(StatesGroup):
     st_book = State()
     st_cancel = State()
