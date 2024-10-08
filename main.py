@@ -15,7 +15,7 @@ from datetime import datetime, timedelta, date
 
 import app.keyboard as kb
 
-print("adasdsadasdasdasd")
+print("комит в новой ветке")
 
 bot = Bot(token = TOKEN)
 dp = Dispatcher()
