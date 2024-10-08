@@ -15,7 +15,9 @@ from datetime import datetime, timedelta, date
 
 import app.keyboard as kb
 
-print("master commit")
+print("master commit 1")
+
+print("master commit 2")
 
 bot = Bot(token = TOKEN)
 dp = Dispatcher()
