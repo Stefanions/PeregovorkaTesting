@@ -15,14 +15,17 @@ from datetime import datetime, timedelta, date
 
 import app.keyboard as kb
 
-print("master commit 1")
+print("комит в новой ветке 1")
 
 print("together")
+print("комит в новой ветке 2")
 
-print("master commit 2")
+print("AAAAAAAAAAAAAAAAAAAAAA")
 
 bot = Bot(token = TOKEN)
 dp = Dispatcher()
+
+print("asdas")
 
 class st(StatesGroup):
     st_book = State()
